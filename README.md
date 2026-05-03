@@ -1,6 +1,6 @@
 # Awesome FreeOS
 
-A curated list of high-quality resources related to the FreeOS ecosystem.
+A curated list of high-quality resources related to the FreeOS.me ecosystem.
 
 ## What this list is
 
@@ -32,7 +32,7 @@ A curated list of high-quality resources related to the FreeOS ecosystem.
 
 ## Development
 
-- [Main Workspace in Gitlab](https://gitlab.com/freeos.me) - Central hub for all projects. _Mirrors_: [Github](https://github.com/freeosm) | [Codeberg](https://codeberg.org/freeos) | [Bitbucket](https://bitbucket.org/freeos)
+- [Main Workspace in Gitlab](https://gitlab.com/freeos.me) - Central hub for all projects. _Mirrors_: [Github](https://github.com/freeosme) | [Codeberg](https://codeberg.org/freeos) | [Bitbucket](https://bitbucket.org/freeos)
 - [Core Project in Gitlab](https://gitlab.com/freeos.me/core) - Main codebase and issue tracking. _Mirrors_: [Github](https://github.com/freeosme/core) | [Codeberg](https://codeberg.org/freeos/core)
 - [Web Project in Gitlab](https://gitlab.com/freeos.me/web) - Frontend and web platform. _Mirrors_: [Github](https://github.com/freeosme/web) | [Codeberg](https://codeberg.org/freeos/web)
 - [Awesome Project in Gitlab](https://gitlab.com/freeos.me/awesome) - Curated resources. _Mirrors_: [Github](https://github.com/freeosme/awesome) | [Codeberg](https://codeberg.org/freeos/awesome)
