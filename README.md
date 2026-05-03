@@ -10,12 +10,12 @@ A curated list of high-quality resources related to the FreeOS ecosystem.
 
 ## Contents
 
-- [Official](#official)
-- [Documentation](#documentation)
-- [Community](#community)
-- [Development](#development)
+- 🌐[Website](#official)
+- 📖[Documentation](#documentation)
+- 🚀[Community](#community)
+- 🏗️[Development](#development)
 
-## Official
+## Website
 
 - [Website](https://freeos.me) - Main project website.
 - [Source Code](https://gitlab.com/freeos.me) - Main source repository.
@@ -24,7 +24,7 @@ A curated list of high-quality resources related to the FreeOS ecosystem.
 
 ## Documentation
 
-- [Blog](https://blog.freeos.me) - Project blog.
+- [Blog](https://freeos.me/blog/) - Project blog.
 
 ## Community
 
