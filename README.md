@@ -32,16 +32,7 @@ A curated list of high-quality resources related to the FreeOS ecosystem.
 
 ## Development
 
-- [Main Workspace](https://gitlab.com/freeos.me) - (GitLab) - Central hub for all projects.
-    - [Mirror in Github](https://github.com/freeosme)
-    - [Mirror in Codeberg](https://codeberg.org/freeos)
-    - [Mirror in Bitbucket](https://bitbucket.org/freeos)
-- [Core Project](https://gitlab.com/freeos.me/core) - Main codebase and issue tracking.
-    - [Mirror in Github](https://github.com/freeosme/core)
-    - [Mirror in Codeberg](https://codeberg.org/freeos/core)
-- [Web Project](https://gitlab.com/freeos.me/web) - Frontend and web platform.
-    - [Mirror in Github](https://github.com/freeosme/web)
-    - [Mirror in Codeberg](https://codeberg.org/freeos/web)
-- [Awesome Project](https://gitlab.com/freeos.me/awesome) - Curated resources.
-    - [Mirror in Github](https://github.com/freeosme/awesome)
-    - [Mirror in Codeberg](https://codeberg.org/freeos/awesome)
+- [Main Workspace](https://gitlab.com/freeos.me) - (GitLab) - Central hub for all projects. [Github](https://github.com/freeosm) | [Codeberg](https://codeberg.org/freeos) | [Bitbucket](https://bitbucket.org/freeos)
+- [Core Project](https://gitlab.com/freeos.me/core) - Main codebase and issue tracking. [Github](https://github.com/freeosme/core) | [Codeberg](https://codeberg.org/freeos/core)
+- [Web Project](https://gitlab.com/freeos.me/web) - Frontend and web platform. [Github](https://github.com/freeosme/web) | [Codeberg](https://codeberg.org/freeos/web)
+- [Awesome Project](https://gitlab.com/freeos.me/awesome) - Curated resources. [Github](https://github.com/freeosme/awesome) | [Codeberg](https://codeberg.org/freeos/awesome)
